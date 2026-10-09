@@ -24,7 +24,7 @@ export const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Fullstack Developer Portfolio
+            MUGHEES B. // DIGITAL REALM
           </h1>
         </motion.div>
 
@@ -37,7 +37,7 @@ export const HeroContent = () => {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               the best
             </span>{" "}
-            project experience.
+            Exploring the digital frontier.
           </span>
         </motion.div>
 
@@ -45,15 +45,15 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+          I&apos;m I'm a student, aspiring developer, and technology enthusiast. 
+          I build projects, explore code, and turn ideas into interactive experiences.
         </motion.p>
 
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
-          Learn more
+          Explore My Projects
         </motion.a>
       </div>
 
