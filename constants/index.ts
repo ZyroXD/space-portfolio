@@ -89,22 +89,25 @@ export const SKILL_DATA = [
 ] as const;
 
 export const SOCIALS = [
+
+export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    link: "https://www.instagram.com/lost.in.h3ll/",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    link: "https://facebook.com",
+    name: "YouTube",
+    icon: FaYoutube,
+    link: "https://www.youtube.com/@RealArtemi5",
   },
   {
-    name: "Twitter",
-    icon: RxTwitterLogo,
-    link: "https://x.com/_sanidhyy",
+    name: "GitHub",
+    icon: RxGithubLogo,
+    link: "https://github.com/ZyroXD/",
   },
 ] as const;
+
 
 export const FRONTEND_SKILL = [
   {
@@ -289,17 +292,17 @@ export const FOOTER_DATA = [
       {
         name: "YouTube",
         icon: FaYoutube,
-        link: "https://youtube.com",
+        link: "https://youtube.com/@RealArtemi5",
       },
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/ZyroXD",
       },
       {
         name: "Discord",
         icon: RxDiscordLogo,
-        link: "https://discord.com",
+        link: "https://discord.com/thatartemis",
       },
     ],
   },
